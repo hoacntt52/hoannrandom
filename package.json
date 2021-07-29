@@ -1,0 +1,25 @@
+{
+  "name": "hoannrandom",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hoannrandom": "commands/hoannrandom.js",
+    "hoannrandomdev": "commands/template.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/hoacntt52/hoanntestaoerandom",
+  "keywords": [
+    "AOE",
+    "GAME",
+    "RANDOM",
+    "JS",
+    "Age of Empires",
+    "hoann",
+    "vnpt"
+  ],
+  "author": "hoann",
+  "license": "ISC"
+}
